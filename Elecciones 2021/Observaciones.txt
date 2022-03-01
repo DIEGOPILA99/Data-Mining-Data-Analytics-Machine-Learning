@@ -1,0 +1,13 @@
+*Usar dataset total para arbol de regresion como saber si es 
+votante por la edad........................................
+
+*Usar Kmeans para obtener centroides de Votantes y No Votantes
+por latitutud y longitud......................................
+
+*Usar dataset total para arbol de regresion como saber si es 
+votante por la Latitud Y longitud........................................
+
+*Usar Kmeans para obtener centroides de Votantes y No Votantes
+por Edad y Edad......................................
+
+*
